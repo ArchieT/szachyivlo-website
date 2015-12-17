@@ -32,6 +32,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		<!--<p class="mcenter"><a href="index.html"><font size="5">Strona główna</font></a></p>-->
 <?php include "menu.html"; ?>
 		<h2>Aktualności</h2>
+<!-- TODO: informacja o podium mistrzostw i o sukcesach na kolejnym etapie-->
+<!-- tutaj nie zmieniamy, nieaktualne rzeczy zostają jak były-->
 <h3>Mistrzostwa szkoły</h3>
 <p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach <b>odbędą się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>.</p>
 <p class="news"><b><u>Zapisy do 9 grudnia (środa) u pani Małgorzaty Petrowskiej (katedra WF)</u></b></p>
