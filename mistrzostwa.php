@@ -33,8 +33,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <?php include "menu.html"; ?>
 		<h2 class="page">Mistrzostwa</h2>
 <h3>Mistrzostwa szkoły</h3>
-<p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach <b>odbędą się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>.</p>
-<p class="news"><b><u>Zapisy do 9 grudnia (środa) u pani Małgorzaty Petrowskiej (katedra WF)</u></b></p>
+<p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>.</p>
+<p class="news"><b><u>Zwycięscą został Konrad Drozdowski, drugie miejsce zajął Tomasz Czarkowski, a na najniższym stopniu podium uplasował się Mateusz Kamiński</u></b></p>
 		<br></div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
