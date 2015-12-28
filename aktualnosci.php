@@ -36,8 +36,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <h3>Mistrzostwa szkoły — wyniki na szczeblu szkolnym</h3>
 <p class="news">Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):
 <ol>
-<li>Konrad Drozdowski z kl.1d</li>
-<li>Tomasz Czarkowski z kl.3e</li>
+<li>Konrad Drozdowski z kl. 1d</li>
+<li>Tomasz Czarkowski z kl. 3e</li>
 <li>Mateusz Kamiński z kl. 2e</li>
 <li>Paweł Wienconek z kl. 3e</li>
 <li>Katarzyna Zająkała z kl. 2f</li>

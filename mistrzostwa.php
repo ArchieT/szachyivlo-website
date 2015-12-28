@@ -36,8 +36,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach 2015 <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>. Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.</p>
 <p class="news"><b><u>Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):</u></b>
 <ol>
-<li>Konrad Drozdowski z kl.1d</li>
-<li>Tomasz Czarkowski z kl.3e</li>
+<li>Konrad Drozdowski z kl. 1d</li>
+<li>Tomasz Czarkowski z kl. 3e</li>
 <li>Mateusz Kamiński z kl. 2e</li>
 <li>Paweł Wienconek z kl. 3e</li>
 <li>Katarzyna Zająkała z kl. 2f</li>
