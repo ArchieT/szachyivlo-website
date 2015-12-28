@@ -33,9 +33,9 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <?php include "menu.html"; ?>
 		<h2 class="page">Mistrzostwa</h2>
 <h3>Mistrzostwa szkoły</h3>
-<p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach 2015 <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>.</p>
-<p class="news"><b><u>Zwycięzcą został Konrad Drozdowski, drugie miejsce zajął Tomasz Czarkowski, a na najniższym stopniu podium uplasował się Mateusz Kamiński</u></b></p> <!-- TODO: z jakich klas? -->
-<p class="news">Na etapie <!-- jakim? ten międyszkolny jak się nazywa?--> <!--co osiągnęliście?-->.</p>
+<p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach 2015 <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>. Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.</p>
+<p class="news"><b><u>Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana): Konrad Drozdowski z kl. 1d, Tomasz Czarkowskiz kl. 2e, Mateusz Kamiński z kl.2e</u></b></p>
+<!--p class="news">Na etapie - - jakim? ten międyszkolny jak się nazywa? co osiągnęliście? .</p-->
 		<br></div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
