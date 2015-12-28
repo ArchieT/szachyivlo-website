@@ -47,7 +47,7 @@ Kilkukrotny współorganizator szkolnych Imprez na Orientację.
 Osoba równie zorganizowana co niezorganizowana, równie przewidywalna co i nieprzewidywalna. 
 Pasjonat astronomii.
 </td></tr>
-<tr class="zarzad"><td class="zphoto"><img class="zphoto" src="foto_5-e1366275768347.cropped.png"></td>
+<tr class="zarzad"><td class="zphoto"><img class="zphoto" src="artursz_-_foto_5-e1366275768347.cropped.png"></td>
 <td class="zname">Artur Szubarga</td><td class="zklasa">3d</td><td class="zdesc">
 Stał na czele czynnika uczniowskiego podczas <a href="historia.php">reaktywacji</a> koła we wrześniu 2013.
 Ostatnimi czasy nieco mniej aktywny w sprawach organizacyjnych, ale już powoli wraca do
