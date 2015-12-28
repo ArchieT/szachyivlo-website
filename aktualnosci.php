@@ -32,9 +32,21 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		<!--<p class="mcenter"><a href="index.html"><font size="5">Strona główna</font></a></p>-->
 <?php include "menu.html"; ?>
 		<h2>Aktualności</h2>
-<!-- TODO: informacja o podium mistrzostw i o sukcesach na kolejnym etapie-->
 <!-- tutaj nie zmieniamy, nieaktualne rzeczy zostają jak były-->
-<h3>Mistrzostwa szkoły</h3>
+<h3>Mistrzostwa szkoły — wyniki na szczeblu szkolnym</h3>
+<p class="news">Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):
+<ol>
+<li>Konrad Drozdowski z kl.1d</li>
+<li>Tomasz Czarkowski z kl.3e</li>
+<li>Mateusz Kamiński z kl. 2e</li>
+<li>Paweł Wienconek z kl. 3e</li>
+<li>Katarzyna Zająkała z kl. 2f</li>
+<li>Natalia Kruszewska z kl. 1a</li>
+<li>Natalia Politowska z kl. 2f</li>
+</ol>
+Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.
+</p>
+<h3>Mistrzostwa szkoły — informacja</h3>
 <p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach <b>odbędą się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>.</p>
 <p class="news"><b><u>Zapisy do 9 grudnia (środa) u pani Małgorzaty Petrowskiej (katedra WF)</u></b></p>
 <p class="news"><a href="mistrzostwa.php">Więcej informacji na podstronie "Mistrzostwa"</a></p>
