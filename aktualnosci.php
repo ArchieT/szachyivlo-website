@@ -31,29 +31,14 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <div class="ogol">
 		<h1>Koło szachowe<br><font size="5"><div class="hright">przy IV Liceum Ogólnokształcącym im. Tadeusza Kościuszki w Toruniu</div></font></h1>
 		<!--<p class="mcenter"><a href="index.html"><font size="5">Strona główna</font></a></p>-->
-<?php include "menu.html"; ?>
-		<h2>Aktualności</h2>
-<!-- tutaj nie zmieniamy, nieaktualne rzeczy zostają jak były-->
-<h3>Mistrzostwa szkoły — wyniki na szczeblu szkolnym</h3>
-<p>Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):
-<ol>
-<li>Konrad Drozdowski z kl. 1d</li>
-<li>Tomasz Czarkowski z kl. 3e</li>
-<li>Mateusz Kamiński z kl. 2e</li>
-<li>Paweł Wienconek z kl. 3e</li>
-<li>Katarzyna Zająkała z kl. 2f</li>
-<li>Natalia Kruszewska z kl. 1a</li>
-<li>Natalia Politowska z kl. 2f</li>
-</ol>
-Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.
-</p>
-<h3>Mistrzostwa szkoły — informacja</h3>
-<p>Mistrzostwa IV Liceum Ogólnokształcącego w szachach <b>odbędą się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>.</p>
-<p><b><u>Zapisy do 9 grudnia (środa) u pani Małgorzaty Petrowskiej (katedra WF)</u></b></p>
-<p><a href="mistrzostwa.php">Więcej informacji na podstronie "Mistrzostwa"</a></p>
+<?php 
+include "menu.html"; 
+require_once 'php-markdown/Michelf/MarkdownExtra.inc.php';
+$ourtext = file_get_contents('aktualnosci.md');
+$ourcontent = Markdown::defaultTransform($text);
+echo $ourcontent;
+?>
 
-<h3>Utworzenie strony</h3>
-<p">W związku z pojawieniem się serwera, na którym można to było bezproblemowo postawić, została założona niniejsza strona. Wszelkie zastrzeżenia i pomysły prosimy zgłaszać, póki się je pamięta.</p>
 		<br></div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
