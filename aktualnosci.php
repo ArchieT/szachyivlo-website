@@ -32,11 +32,11 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		<h1>Koło szachowe<br><font size="5"><div class="hright">przy IV Liceum Ogólnokształcącym im. Tadeusza Kościuszki w Toruniu</div></font></h1>
 		<!--<p class="mcenter"><a href="index.html"><font size="5">Strona główna</font></a></p>-->
 <?php 
-include "menu.html"; 
-require_once 'php-markdown/Michelf/MarkdownExtra.inc.php';
+include_once 'markdown.php';
+include 'menu.html'; 
 $ourtext = file_get_contents('aktualnosci.md');
-$ourcontent = Markdown::defaultTransform($text);
-echo $ourcontent;
+$ourconten = Markdown($ourtext);
+echo $ourconten;
 ?>
 
 		<br></div>
