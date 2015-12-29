@@ -31,22 +31,13 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <div class="ogol">
 		<h1>Koło szachowe<br><font size="5"><div class="hright">przy IV Liceum Ogólnokształcącym im. Tadeusza Kościuszki w Toruniu</div></font></h1>
 		<!--<p class="mcenter"><a href="index.html"><font size="5">Strona główna</font></a></p>-->
-<?php include "menu.html"; ?>
-		<h2 class="page">Mistrzostwa</h2>
-<h3>Mistrzostwa szkoły</h3>
-<p>Mistrzostwa IV Liceum Ogólnokształcącego w szachach 2015 <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>. Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.</p>
-<p><b><u>Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):</u></b>
-<ol>
-<li>Konrad Drozdowski z kl. 1d</li>
-<li>Tomasz Czarkowski z kl. 3e</li>
-<li>Mateusz Kamiński z kl. 2e</li>
-<li>Paweł Wienconek z kl. 3e</li>
-<li>Katarzyna Zająkała z kl. 2f</li>
-<li>Natalia Kruszewska z kl. 1a</li>
-<li>Natalia Politowska z kl. 2f</li>
-</ol>
-</p>
-<!--p class="news">Na etapie - - jakim? ten międyszkolny jak się nazywa? co osiągnęliście? .</p-->
+<?php 
+include_once 'markdown.php';
+include "menu.html"; 
+$ourtext = file_get_contents('mistrzostwa.md');
+$ourcontent = Markdown($ourtext);
+echo $ourcontent;
+?>
 		<br></div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
