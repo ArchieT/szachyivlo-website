@@ -3,6 +3,7 @@
 		<meta charset="UTF-8">
 		<title>Mistrzostwa :: Koło szachowe — IV Liceum Ogólnokształcące im. Tadeusza Kościuszki w Toruniu</title>
 		<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="news.css">
 		<script>
 {
 	  "@context": "http://schema.org",
@@ -33,8 +34,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <?php include "menu.html"; ?>
 		<h2 class="page">Mistrzostwa</h2>
 <h3>Mistrzostwa szkoły</h3>
-<p class="news">Mistrzostwa IV Liceum Ogólnokształcącego w szachach 2015 <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>. Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.</p>
-<p class="news"><b><u>Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):</u></b>
+<p>Mistrzostwa IV Liceum Ogólnokształcącego w szachach 2015 <b>odbyły się dnia 11 grudnia 2015 roku o godzinie 9:30 na&nbsp;małej sali gimnastycznej</b>. Partie zostały rozegrane systemem szwajcarskim na poziomie 7 rund.</p>
+<p><b><u>Do finału Indywidualnych Mistrzostw Torunia Szkół Ponadgimnazjalnych zakwalifikowali się (kolejność zachowana):</u></b>
 <ol>
 <li>Konrad Drozdowski z kl. 1d</li>
 <li>Tomasz Czarkowski z kl. 3e</li>
