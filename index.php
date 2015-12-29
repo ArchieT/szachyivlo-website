@@ -27,7 +27,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		<h2>Spotkania koła</h2>
 		<p>Spotkania koła odbywają się w co drugą środę (choć ostatnio od dłuższego czasu — w każdą); godzina rozpoczęcia między 14:30 a 15:10, godzina zakończenia zazwyczaj około 17 (czasem dłużej jak są jakieś długie partie).</p>
 		<p>Przeważnie jesteśmy w sali 11, 12, lub 13, zdarza się że w 14 (tak, tak!), w sytuacjach kryzysowych przy sklepiku w piwnicy bądź w pobliżu sal gimnastycznych czy przy schodach na oddział Gimnazjum. Raz po maturach, gdy koło formalnie już właściwie nie funkcjonuje, graliśmy na stołach Komisji (sic) (za pozwoleniem)!</p>
-		<p>Spotkania koła odbywają się pod opieką p. prof. Małgorzaty Petrowskiej. Do dyspozycji mamy siedem szachownic szkolnych + te które przyniesiemy (przynosimy również goban (Tomek Czarkowski) i szachownice do <a href="http://3manchess.com">3 Man Chess</a> (nędzne, autorskie podróbki — Michał Feiler, <i>genuine original</i> — Józek Sędziak)).</p>
+		<p>Spotkania koła odbywają się pod opieką p. prof. Małgorzaty Petrowskiej. Do dyspozycji mamy siedem szachownic szkolnych + te które przyniesiemy (przynosimy również goban (Tomek Czarkowski) i szachownice do szachów trzyosobowych (heksagonalne — Józek Sędziak, papierowe do <a href="http://3manchess.com">3 Man Chess</a> — Michał Feiler).</p>
 		<p>Udział w spotkaniach koła jest zaliczany jako udział w zajęciach fakultatywnych z wychowania fizycznego.</p>
 
 		<h2>Co robimy na spotkaniach?</h2>
