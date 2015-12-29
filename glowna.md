@@ -24,20 +24,13 @@ z wychowania fizycznego.
 Na spotkaniach m.in.:
 
 * gramy w szachy, kto z kim chce
-
 * gramy w [kloca](http://pl.wikipedia.org/wiki/Kloc)
-
 * gramy w [go](http://pl.wikipedia.org/wiki/Go)
-
 * gramy w różne odmiany szachów i gry szachopodobne
-
 * gramy w [3 Man Chess](http://3manchess.com), głównie ze względu na [projekt na Toruński Festiwal Nauki i Sztuki](http://github.com/ArchieT/3manchess)
 (nasze koło ma także swój wkład we współtworzeniu zasad tej gry)
-
 * uczymy grać w szachy osoby, które nie umieją grać
-
 * uczymy się różnych technik, komentujemy wzajemnie swoje rozgrywki
-
 * gadamy ☺
 
 **Jeżeli masz jakiekolwiek pytania lub wątpliwości, [pisz na grupę mailową na
