@@ -36,4 +36,4 @@ Na spotkaniach m.in.:
 **Jeżeli masz jakiekolwiek pytania lub wątpliwości, [pisz na grupę mailową na
 szachyivlo@googlegroups.com](mailto:szachyivlo@googlegroups.com), [pisz do mnie
 na archiet@platinum.edu.pl](mailto:archiet@platinum.edu.pl) lub [*po prostu
-przyjdź na koło*](index.php) ☺
+przyjdź na koło*](index.php) ☺**
