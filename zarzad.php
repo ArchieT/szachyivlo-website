@@ -3,6 +3,7 @@
 		<meta charset="UTF-8">
 		<title>Zarząd :: Koło szachowe — IV Liceum Ogólnokształcące im. Tadeusza Kościuszki w Toruniu</title>
 		<link rel="stylesheet" href="styles.css">
+<?php include "manageicons.html"; ?>
 		<script>
 {
 	  "@context": "http://schema.org",

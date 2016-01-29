@@ -4,6 +4,7 @@
 		<title>Aktualności :: Koło szachowe — IV Liceum Ogólnokształcące im. Tadeusza Kościuszki w Toruniu</title>
 		<link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="news.css">
+<?php include "manageicons.html"; ?>
 		<script>
 {
 	  "@context": "http://schema.org",
