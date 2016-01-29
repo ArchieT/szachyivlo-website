@@ -7,7 +7,7 @@ zazwyczaj około 17 (czasem dłużej jak są jakieś długie partie).
 Przeważnie jesteśmy w sali 11, 12, lub 13, zdarza się że w 14 (tak, tak!), w
 sytuacjach kryzysowych przy sklepiku w piwnicy bądź w pobliżu sal
 gimnastycznych czy przy schodach na oddział Gimnazjum. Raz po maturach, gdy
-koło formalnie już właściwie nie funkcjonuje, graliśmy na stołach Komisji (sic)
+koło formalnie już właściwie nie funkcjonuje, graliśmy na stołach Komisji 
 (za pozwoleniem)!
 
 Spotkania koła odbywają się pod opieką p. prof. Małgorzaty Petrowskiej. Do
