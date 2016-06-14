@@ -4,7 +4,7 @@
 		<title>Kanały komunikacji :: Koło szachowe — IV Liceum Ogólnokształcące im. Tadeusza Kościuszki w Toruniu</title>
 		<link rel="stylesheet" href="styles.css">
 <?php include "manageicons.html"; ?>
-		<script>
+		<script type="application/ld+json">
 {
 	  "@context": "http://schema.org",
 	    "@type": "BreadcrumbList",
@@ -16,7 +16,7 @@
 						      "name": "Kanały komunikacji"
 							          }
 			    }]
-}
+}</script>
 	</head>
 	<body bgcolor="#FFEFDD">
 		<!-- Google Tag Manager -->

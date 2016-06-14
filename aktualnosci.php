@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="news.css">
 <?php include "manageicons.html"; ?>
-		<script>
+		<script type="application/ld+json">
 {
 	  "@context": "http://schema.org",
 	    "@type": "BreadcrumbList",
@@ -18,6 +18,7 @@
 							          }
 			    }]
 }
+</script>
 	</head>
 	<body bgcolor="#FFEFDD">
 		<!-- Google Tag Manager -->
