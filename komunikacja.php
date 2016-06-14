@@ -33,7 +33,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	include "menu.html"; 
 	include "komunikacja.html";
 ?>
-<script type="text/javascript">aktywuj("histmen");</script>
+<script type="text/javascript">aktywuj("komumen");</script>
 </div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
