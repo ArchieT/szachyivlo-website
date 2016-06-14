@@ -29,27 +29,12 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		    })(window,document,'script','dataLayer','GTM-KP8WW2');</script>
 		    <!-- End Google Tag Manager -->
 <div class="ogol">
-<?php include "menu.html"; ?>
+<?php
+	include "menu.html"; 
+	include "komunikacja.html";
+?>
 <script type="text/javascript">aktywuj("histmen");</script>
-		<h2 class="page">Kanały komunikacji</h2>
-<p>Porozumiewamy się głównie oczywiście "w realu", ale poza tym przede wszystkim mailowo oraz na Google Hangouts.</p>
-<h3><a href="https://groups.google.com/forum/#!forum/szachyivlo">Nasz Google Group</a></h3>
-		<p>Prosimy wszystkich (nawet rzadko) uczęszczających o dołączenie do naszej grupy mailowej!</p>
-		<iframe id="forum_embed"
-			  src="javascript:void(0)"
-			    scrolling="no"
-			      frameborder="0"
-			        width="950"
-				  height="700">
-		</iframe>
-		<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-       'https://groups.google.com/forum/embed/?place=forum/szachyivlo'
-            + '&showsearch=true&showpopout=true&showtabs=false'
-	         + '&parenturl=' + encodeURIComponent(window.location.href);
-		</script>
-
-		<br></div>
+</div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
 	</body>
