@@ -1,4 +1,4 @@
 function aktywuj(id) {
-	$("#"+id).parent().addClass("active");
+	$("#"+id).addClass("active");
 	console.log(id+" aktywowane");
 }
