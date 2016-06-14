@@ -29,8 +29,6 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		    })(window,document,'script','dataLayer','GTM-KP8WW2');</script>
 		    <!-- End Google Tag Manager -->
 <div class="ogol">
-		<h1>Koło szachowe<br><font size="5"><div class="hright">przy IV Liceum Ogólnokształcącym im. Tadeusza Kościuszki w Toruniu</div></font></h1>
-		<!--<p class="mcenter"><a href="index.html"><font size="5">Strona główna</font></a></p>-->
 <?php include "menu.html"; ?>
 		<h2 class="page">Zarząd ☺, czyli osoby które są prawie zawsze i się poczuwają</h2>
 		<br>
