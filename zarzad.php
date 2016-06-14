@@ -36,7 +36,6 @@ include "zarzad.html";
 <script type="text/javascript">aktywuj("zarzmen");</script>
 
 </div>
-		<hr>
-		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>
+<?php include "footer.html";?>
 	</body>
 </html>
