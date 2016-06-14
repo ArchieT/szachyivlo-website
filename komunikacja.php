@@ -30,6 +30,7 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		    <!-- End Google Tag Manager -->
 <div class="ogol">
 <?php include "menu.html"; ?>
+<script type="text/javascript">aktywuj("histmen");</script>
 		<h2 class="page">Kanały komunikacji</h2>
 <p>Porozumiewamy się głównie oczywiście "w realu", ale poza tym przede wszystkim mailowo oraz na Google Hangouts.</p>
 <h3><a href="https://groups.google.com/forum/#!forum/szachyivlo">Nasz Google Group</a></h3>

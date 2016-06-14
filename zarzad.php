@@ -30,6 +30,8 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		    <!-- End Google Tag Manager -->
 <div class="ogol">
 <?php include "menu.html"; ?>
+<script type="text/javascript">aktywuj("zarzmen");</script>
+
 		<h2 class="page">Zarząd ☺, czyli osoby które są prawie zawsze i się poczuwają</h2>
 		<br>
 		<table class="zarzad">

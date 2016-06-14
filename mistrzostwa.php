@@ -37,6 +37,8 @@ $ourtext = file_get_contents('mistrzostwa.md');
 $ourcontent = Markdown($ourtext);
 echo $ourcontent;
 ?>
+<script type="text/javascript">aktywuj("mistmen");</script>
+
 		<br></div>
 		<hr>
 		<div class="footer">Opiekun strony:<br>Michał Krzysztof Feiler <a href="mailto:archiet@platinum.edu.pl">&lt;archiet@platinum.edu.pl&gt;</a><br><a href="http://archiet.platinum.edu.pl">http://archiet.platinum.edu.pl</a></div>

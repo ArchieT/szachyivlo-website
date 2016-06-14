@@ -30,6 +30,7 @@ $ourcontent = Markdown($ourtext);
 echo $ourcontent;
 ?>
 		
+<script type="text/javascript">aktywuj("mainmen");</script>
 		
 	</div>	
 		<?php include "footer.html"; ?>
