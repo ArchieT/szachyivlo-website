@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
+		<meta name="robots" content="noindex, nofollow">
 		<title>Zarząd :: Koło szachowe — IV Liceum Ogólnokształcące im. Tadeusza Kościuszki w Toruniu</title>
 		<link rel="stylesheet" href="styles.css">
 <?php include "manageicons.html"; ?>
